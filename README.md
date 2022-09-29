@@ -1,4 +1,12 @@
-### Hi there 👋
+]<div align="center">
+  <img src="https://github.com/HelgaZhizhka/HelgaZhizhka/blob/3445e0681e8a099e3a77047de17647b53c96c9d5/header.pngf">
+</div>
+
+<img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="100"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+since+2015)](https://git.io/typing-svg)
+
 
 <!--
 **HelgaZhizhka/HelgaZhizhka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
