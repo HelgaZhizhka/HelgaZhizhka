@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://github.com/HelgaZhizhka/HelgaZhizhka/blob/3445e0681e8a099e3a77047de17647b53c96c9d5/header.png">
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C7C54&width=435&lines=Frontend+Developer+since+2015)](https://git.io/typing-svg)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+since+2015)](https://git.io/typing-svg)
 
 
 <!--
