@@ -39,7 +39,7 @@ I am currently working on my own personal react project
 ```
 work a lot and do mentoring consultations
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=helgazhizhka)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=helgazhizhka)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/helgazhyzhka/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
