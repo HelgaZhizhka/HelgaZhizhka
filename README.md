@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Olga
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C7C54&width=350&lines=Frontend+Developer+since+2015" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A51F&width=350&lines=Frontend+Developer+since+2015" alt="Typing SVG" />
   
 </div>
 <div align=center>
