@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" alt="life" width="200">
 </div>
 
-- 🔭 I’m currently working in team
+- 🔭 I’m work as frontend developer 
 - 💫 I'm mentor HTML/CSS/JS
 - 🌱 I’m currently learning React
 - 💬 Ask me about HTML/CSS/JS
