@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" alt="life" width="200">
 </div>
 
-- 🔭 I’m frontend developer and frontend mentor 
+- 🔭 I’m frontend developer and mentor 
 - 📫 How to reach me: <a href="mailto:helgazhyzhka@gmail.com">helgazhyzhka@gmail.com</a>
 - 😄 Pronouns: Good-natured, sincere, interested
 - ⚡ Fun fact: I love meeting new people and exploring new places
